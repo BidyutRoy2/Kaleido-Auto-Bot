@@ -15,7 +15,7 @@ export function displayBanner() {
       ██║   ██║██╔══╝  ██║╚██╔╝██║
       ╚██████╔╝███████╗██║ ╚═╝ ██║
        ╚═════╝ ╚══════╝╚═╝HiddenGem
-                   ${chalk.yellow('KALEIDO AUTO - BOT')}                
-     📢  ${chalk.blue('Telegram Channel: https://t.me/hiddengemnews')}
+${chalk.yellow('KALEIDO AUTO - BOT')}                
+📢  ${chalk.blue('Telegram Channel: https://t.me/hiddengemnews')}
     `));
 }
