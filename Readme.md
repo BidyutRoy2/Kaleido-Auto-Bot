@@ -28,6 +28,7 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
    ```bash
    nano wallets.txt
    ```
+   To Save Address (CTRL+X+Y and Hit Enter)
 4. Run Bot
    ```bash
    npm run start
