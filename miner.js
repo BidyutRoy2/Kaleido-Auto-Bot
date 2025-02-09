@@ -5,7 +5,7 @@ import * as fs from 'fs/promises';
 import { readFile } from 'fs/promises';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
-import {displayBanner} from 'https://github.com/BidyutRoy2/BidyutRoy2/blob/main/Logo2.js';
+import {displayBanner} from './banner.js';
 
 class KaleidoMiningBot {
     constructor(wallet, botIndex) {
